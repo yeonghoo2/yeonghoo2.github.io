@@ -286,7 +286,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: logs
     values:
       layout: single
       author_profile: true
